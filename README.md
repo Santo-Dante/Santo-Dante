@@ -14,7 +14,7 @@
 
 <p align="center">
 
-`SantoDante ©`
+`Santo-Dante ©`
 
 </p>
 
